@@ -17,8 +17,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-## Example Image
+## Example Images
+
+### `Home Page`
 
 ![AmazonClone_Home_Example_Image](example_home.png)
+
+### `Basket Page`
+
 ![AmazonClone_Basket_Example_Image](example_basket.png)
+
+### `Login Page`
+
 ![AmazonClone_Login_Example_Image](example_login.png)
